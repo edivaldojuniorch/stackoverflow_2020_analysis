@@ -29,7 +29,7 @@ footer
 ``` 
 **Title** is the combination of __subject__ and __type of the menssage__. \
 **Subject:** Feat, fix, docs, style, refactor, test, chore.\
-**Type of the menssage:** It should not be greater than 50 character, not end with period and should begin with a capital letter.\
+**Type of the menssage:** It should not be greater than 50 character, not end with period and should begin with a capital letter.
 
 
 ### MIT License
