@@ -10,6 +10,15 @@ DevOps e Programming profile that was interviewed.
 ```
 git clone https://github.com/edivaldojuniorch/stackoverflow_2020_analysis.git
 ```
+### Raw Data Origin
+You can check out the raw data here:
+
+["Stack Overflow Annual Developer Survey"]:
+<https://insights.stackoverflow.com/survey>
+'title'
+
+["Stack Overflow Annual Developer Survey"]
+
 ### Project Motivation
 Here is presented the stackoverflow 2020 survey analysis. The theme is around of DevOps scenarios, investigating the opnion from stackoverflow about this new thecnological field. 
 As DevOps is a trending toppics, this project bring some questions and answers about the DevOps acceptance and applicability by global and regional developers.
