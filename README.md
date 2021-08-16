@@ -5,6 +5,16 @@ Here, an analysis of the trend on programming scenerio on 2020 accordigly with s
 DevOps e Programming profile that was interviewed.
 
 
+### Blog Post with all results
+It evalaible a plog post with the dissusion of all results at the following link:
+
+["Stackoverflow And DevOps: Is it really important for Tech Companies?"]:
+<https://edivaldo-junior.medium.com/stackoverflow-and-devops-is-it-really-important-for-tech-companies-e4e0d0d1d03d>
+'title'
+
+["Stackoverflow And DevOps: Is it really important for Tech Companies?"]
+
+
 ### Installations
   The project is based on python and run a **Jupter** notbook. To view the code locally using jupyter:
 ```
